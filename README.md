@@ -9,6 +9,11 @@
 - React instalado
 - node.js
 - instalar el manejador de paquete de node "npm"
+- para instalar las dependecias del proyecto es "npm install"
+
+# notas a tener en cuenta
+- debe tener que debe correr el componente que dice analalisis.js
+- 
   
 
 
