@@ -10,10 +10,12 @@
 - node.js
 - instalar el manejador de paquete de node "npm"
 - para instalar las dependecias del proyecto es "npm install"
+- para correr el codigo "npm start"
 
 # notas a tener en cuenta
-- debe tener que debe correr el componente que dice DataVisualizer
-- 
+- debe tener que debe correr el componente que dice DataVisualizer.js
+
+profe por favor no nos deje colaborenos para no repetir porfa
   
 
 
