@@ -15,7 +15,7 @@
 # notas a tener en cuenta
 - debe tener que debe correr el componente que dice DataVisualizer.js
 
-profe por favor no nos deje colaborenos para no repetir porfa
+
   
 
 
