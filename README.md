@@ -1,3 +1,20 @@
+# Integrantes
+- Jaime Pacheco
+- Helen Polo
+- Daniel Barrera
+
+# librerias
+- Chart.js
+- Material UI instalar "npm install @mui/material @emotion/react @emotion/styled"
+- React instalado
+- node.js
+- instalar el manejador de paquete de node "npm"
+  
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
