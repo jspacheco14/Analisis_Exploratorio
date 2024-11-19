@@ -12,7 +12,7 @@
 - para instalar las dependecias del proyecto es "npm install"
 
 # notas a tener en cuenta
-- debe tener que debe correr el componente que dice analalisis.js
+- debe tener que debe correr el componente que dice DataVisualizer
 - 
   
 
